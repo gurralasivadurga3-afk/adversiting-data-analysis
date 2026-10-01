@@ -80,7 +80,3 @@ They can later be loaded and used to make predictions on new advertising data.
 * Scikit-learn
 * Joblib
 * Jupyter Notebook
-
-## Author
-
-Sivadurga Gurrala
